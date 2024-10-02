@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\김상현\OneDrive - 인하대학교\22-2학기\컴그설\finalproject\ObjParser\ObjParser.h(180,13): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'입니다.
+C:\Users\김상현\OneDrive - 인하대학교\22-2학기\컴그설\finalproject\ObjParser\ObjParser.h(217,31): warning C4267: 'return': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김상현\OneDrive - 인하대학교\22-2학기\컴그설\finalproject\main.cpp(215,54): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\김상현\OneDrive - 인하대학교\22-2학기\컴그설\finalproject\main.cpp(217,53): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\김상현\OneDrive - 인하대학교\22-2학기\컴그설\finalproject\main.cpp(266,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김상현\OneDrive - 인하대학교\22-2학기\컴그설\finalproject\main.cpp(270,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\김상현\OneDrive - 인하대학교\22-2학기\컴그설\finalproject\main.cpp(271,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김상현\OneDrive - 인하대학교\22-2학기\컴그설\finalproject\main.cpp(275,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\김상현\OneDrive - 인하대학교\22-2학기\컴그설\finalproject\main.cpp(276,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김상현\OneDrive - 인하대학교\22-2학기\컴그설\finalproject\main.cpp(278,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\김상현\OneDrive - 인하대학교\22-2학기\컴그설\finalproject\main.cpp(283,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김상현\OneDrive - 인하대학교\22-2학기\컴그설\finalproject\main.cpp(284,13): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  2 of 238 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  finalproject.vcxproj -> C:\Users\김상현\OneDrive - 인하대학교\22-2학기\컴그설\finalproject\x64\Release\finalproject.exe
